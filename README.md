@@ -1,2 +1,2 @@
-# 67131348-67KHMT
+# SOT381-Python
 địa chỉ Kho chứa mã nguồn các bài lập trình.
